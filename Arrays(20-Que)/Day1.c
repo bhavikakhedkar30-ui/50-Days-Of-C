@@ -30,4 +30,6 @@ int main() {
     printf("Minimum element is: %d\n", min);
 
     return 0;
+
+
 }
