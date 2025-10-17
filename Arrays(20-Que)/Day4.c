@@ -1,3 +1,4 @@
+// problem -> Sort an array of 0s, 1s and 2s (Dutch National Flag Problem)
 #include <stdio.h>
 
 
@@ -46,7 +47,6 @@ void printArray(int arr[], int n) {
 int main() {
     int n;
 
-    
     printf("Enter the number of elements: ");
     scanf("%d", &n);
 
