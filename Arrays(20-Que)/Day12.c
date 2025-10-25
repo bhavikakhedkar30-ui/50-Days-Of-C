@@ -1,3 +1,4 @@
+//Probelm ->  Count the number of occurrences of an element//
 #include <stdio.h>
 
 int main() {

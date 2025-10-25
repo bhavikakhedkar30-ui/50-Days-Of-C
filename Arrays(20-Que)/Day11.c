@@ -1,3 +1,4 @@
+//Probelm->Rearrange array in alternating positive & negative items//
 #include <stdio.h>
 
 
