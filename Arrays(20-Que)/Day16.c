@@ -1,3 +1,4 @@
+//Problem -> Find duplicate number in array
 #include <stdio.h>
 
 int main() {
